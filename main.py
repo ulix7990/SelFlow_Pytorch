@@ -3,7 +3,7 @@
 import os
 import argparse
 
-from extract_config import config_dict
+from config.extract_config import config_dict
 from selflow_model import SelFlowModel
 
 def main():
